@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "241168593665",
+    "project_id": "login-579fd",
+    "storage_bucket": "login-579fd.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:241168593665:android:9579b486c328cfc003e100",
+        "android_client_info": {
+          "package_name": "com.example.flutter_app_bienestar"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASnXxcNFn9rF7gdYq8EWPG56KCVmaGhM8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
